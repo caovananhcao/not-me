@@ -1,0 +1,22 @@
+NOT ME! - BAT DAU O DAY
+
+1. CHOI NGAY, KHONG CAN MANG
+Mo thu muc offline, bam phai not-me-offline.html -> Open with -> Edge hoac Chrome.
+Co the chep file HTML nay vao USB. Am thanh va font da nam trong file.
+
+2. GITHUB
+Giai nen ZIP, upload cac file ben trong len repository (khong upload nguyen ZIP).
+File index.html phai nam o thu muc goc.
+Settings -> Pages -> Deploy from a branch -> main -> /(root) -> Save.
+Doc README.md de xem huong dan day du co dau tieng Viet.
+
+3. CAI APP VA GHIM TASKBAR WINDOWS
+Mo link web bang Microsoft Edge khi co mang.
+Cho thong bao: Da san sang choi offline.
+Bam Cai app Windows, hoac menu ba cham -> More tools -> Apps -> Install this site as an app.
+Cai xong: Pin to taskbar.
+Neu can, vao edge://apps -> Not Me! -> Details -> Pin to taskbar.
+Tat Wi-Fi, dong app, mo lai tu taskbar de thu.
+
+Link web hien tai:
+https://not-me-ratatata.caovananhcaoo.chatgpt.site
